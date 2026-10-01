@@ -1,0 +1,4 @@
+interface:
+  display_name: "Engineering Delivery"
+  short_description: "Apply clean, test-driven delivery practices"
+  default_prompt: "Use $engineering-delivery to implement this change with clean code, tests, and independent review."

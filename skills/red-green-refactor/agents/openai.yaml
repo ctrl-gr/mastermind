@@ -1,0 +1,4 @@
+interface:
+  display_name: "Red Green Refactor"
+  short_description: "Drive changes through focused test cycles"
+  default_prompt: "Use $red-green-refactor to implement this behavior test-first."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Angular Engineering"
+  short_description: "Build robust, testable Angular applications"
+  default_prompt: "Use $angular-engineering to implement this Angular feature with tests."

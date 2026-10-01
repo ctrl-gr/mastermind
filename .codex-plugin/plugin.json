@@ -1,0 +1,34 @@
+{
+  "name": "mastermind",
+  "version": "1.0.0+codex.20260808184948",
+  "description": "Reusable clean-code, test-driven, backend, frontend, and review workflows for professional software delivery.",
+  "author": {
+    "name": "Local developer"
+  },
+  "keywords": [
+    "clean-code",
+    "tdd",
+    "dotnet",
+    "ddd",
+    "react",
+    "angular",
+    "code-review"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Mastermind",
+    "shortDescription": "Test-driven, modular full-stack engineering",
+    "longDescription": "Applies clean-code fundamentals, red-green-refactor delivery, modular DDD for .NET, modern React and Angular practices, and independent test and code-review passes.",
+    "developerName": "Local developer",
+    "category": "Developer Tools",
+    "capabilities": [
+      "Write",
+      "Review"
+    ],
+    "defaultPrompt": [
+      "Implement this feature test-first.",
+      "Design this .NET module with DDD.",
+      "Review this change for real risks."
+    ]
+  }
+}

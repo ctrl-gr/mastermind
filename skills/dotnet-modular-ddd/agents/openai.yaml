@@ -1,0 +1,4 @@
+interface:
+  display_name: "Modular DDD for .NET"
+  short_description: "Build modular domain-driven .NET backends"
+  default_prompt: "Use $dotnet-modular-ddd to design and implement this .NET backend feature."
